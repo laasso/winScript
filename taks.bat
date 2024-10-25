@@ -1,2 +1,2 @@
 tasklist
-pasue
+pause
