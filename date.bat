@@ -1,2 +1,3 @@
 @echo off
-date /t
+date /T
+pause
